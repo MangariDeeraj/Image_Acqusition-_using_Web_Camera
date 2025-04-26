@@ -27,6 +27,8 @@ End the program and close the output video window by pressing 'q'.
 
 
 ## Program:
+# NAME :- MANGARI DEERAJ
+# REG NO:- 212223100031
 ## i) Write the frame as JPG file
 ``` Python
 import cv2
